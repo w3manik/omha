@@ -1,0 +1,431 @@
+@media (max-width: 575.98px) {
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar .navbar-nav .nav-item {
+        margin-left: 2px;
+    }
+
+    .navbar .navbar-nav .nav-link::after {
+        height: 2px;
+        left: 7%;
+    }
+
+    .navbar .navbar-nav .nav-item .dropdown {
+        top: 14px;
+        left: 104px;
+        z-index: 999;
+    }
+
+    .baner_text h2 {
+        font-size: 32px;
+        padding-top: 87px;
+        padding-bottom: 10px;
+    }
+
+    .baner_text p {
+        width: auto;
+    }
+
+    #baner .search {
+        width: auto;
+    }
+    #baner .search button {
+        font-size: 14px;
+        padding: 3px 11px;
+        top: 50%;
+        right: 1px;
+    }
+
+    #baner .search input {
+        padding: 6px 0 12px 56px;
+        padding-left: 1px;
+    }
+
+    #baner .search input::placeholder{
+        font-size: 12px;
+    }
+    #baner .search i {
+        display: none;
+    }
+
+    #baner .box {
+        width: auto;
+        flex-wrap: wrap;
+    }
+
+    #baner .box .item h2 {
+        font-size: 36px;
+    }
+
+    #baner .box .item p {
+        font-size: 14px;
+    }
+    #baner img {
+        width: 100%;
+        margin-top: -163px;
+    }
+
+    .proparits_text h2 {
+        font-size: 25px;
+        width: auto;
+    }
+
+
+    #proparits {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .prots_item {
+        margin-top: 7px;
+    }
+    .res_title h4 {
+        font-size: 32px;
+    }
+
+    .res_title p {
+        padding-top: 27px;
+    }
+    .rese_pc img {
+        width: 76%;
+    }
+
+    .resent_text h3 {
+        width: auto;
+        font-size: 28px;
+        line-height: 129%;
+    }
+
+    .resent_text p {
+        width: auto;
+    }
+    .restanok a {
+        padding: 10px 13px 10px 4px;
+       margin-right: 10px;
+       font-size: 12px;
+       margin-top: 24px;
+    }
+
+    .restanok i {
+        display: none;
+    }
+    .restanok .explore {
+        padding-left: 12px;
+    }
+
+    #resedient {
+        padding-bottom: 50px;
+    }
+
+    .kota {
+        width: auto;
+        margin-top: 27px;
+    }
+
+    .lim h3 {
+        display: none;
+    }
+
+    .kami h3 {
+        font-size: 20px;
+        padding-top: 23px;
+    }
+    .conte_item i {
+        font-size: 13px;
+        display: none;
+    }
+    .conte_item h5 {
+        font-size: 11px;
+        padding-left: 1px;
+    }
+    .call a {
+        font-size: 10px;
+        padding: 6px 32px;
+    }
+    .contect {
+        width: 143px;
+        margin-top: 32px;
+        margin-right: 3px;
+        padding: 21px 20px 0 4px;
+    }
+
+}
+
+
+@media (max-width: 767.98px) {
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        margin-left: 2px;
+    }
+
+    .navbar .navbar-nav .nav-link::after {
+        height: 2px;
+        left: 7%;
+    }
+
+    .navbar .navbar-nav .nav-link::after {
+        height: 1px;
+        left: 5%;
+    }
+
+    .navbar .navbar-nav .nav-item .dropdown {
+        top: 15px;
+        left: 104px;
+        z-index: 999;
+    }
+    .baner_text h2 {
+        font-size: 36px;
+        padding-top: 50px;
+        padding-bottom: 7px;
+    }
+
+    .baner_text p {
+        width: auto;
+    }
+
+    #baner .search {
+        width: auto;
+        margin-top: 42px;
+    }
+
+    #baner .box {
+        width: 644px;
+    }
+    #baner .box .item h2 {
+        font-size: 44px;
+    }
+    #baner .box .item {
+        width: 30%;
+        margin-right: -3px;
+    }
+    #baner img{
+        display: none;
+    }
+
+    .proparits_text h2 {
+        font-size: 28px;
+    }
+
+    #proparits {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .resent_text h3 {
+        font-size: 27px;
+        width: auto;
+    }
+    .rese_pc img{
+        width: 89%;
+    }
+
+    .restanok a {
+        font-size: 14px;
+        padding:13px 27px 13px 77px;
+        margin-right: 24px;
+        padding-left: 41px;
+    }
+
+    .restanok i {
+        left: 14px;
+    }
+
+    #resedient {
+        padding-bottom: 60px;
+    }
+
+    .resent_text p {
+        width: auto;
+    }
+
+    .kota {
+        width: auto;
+    }
+
+    .contect {
+        width: 198px;
+        margin-right: 29px;
+    }
+    .conte_item i {
+        font-size: 14px;
+    }
+
+    .conte_item h5 {
+        font-size: 12px;
+        padding-left: 5px;
+    }
+
+    .call a {
+        font-size: 10px;
+        padding: 19px 36px;
+    }
+
+
+}
+
+
+@media (max-width: 991.98px) {
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar .navbar-nav .nav-item {
+        margin-left: 2px;
+    }
+
+    .navbar .navbar-nav .nav-link::after {
+        height: 2px;
+        left: 7%;
+    }
+
+    .navbar .navbar-nav .nav-link::after {
+        height: 1px;
+        left: 5%;
+    }
+
+    .navbar .navbar-nav .nav-item .dropdown {
+        top: 15px;
+        left: 104px;
+        z-index: 999;
+    }
+
+    .baner_text h2 {
+        font-size: 34px;
+        padding-top: 81px;
+        padding-bottom: 13px;
+    }
+
+    #baner img{
+        display: none;
+    }
+
+    .proparits_text h2 {
+        font-size: 30px;
+    }
+
+    #proparits {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .rese_pc img {
+        width: 80%;
+    }
+
+    .resent_text h3 {
+        font-size: 21px;
+        width: auto;
+        line-height: 134%;
+    }
+
+    .resent_text p {
+        font-weight: 300;
+        font-size: 15px;
+        width: auto;
+        line-height: 19px;
+    }
+
+    .restanok i {
+        left: 10px;
+    }
+
+    .restanok a {
+        padding: 13px 10px 13px 29px;
+        margin-right: 2px;
+    }
+
+    .kota {
+        width: auto;
+        margin-top: 17px;
+    }
+
+    .kota h3 {
+        font-size: 20px;
+        padding-top: 13px;
+    }
+
+
+    .kota p {
+        font-size: 14px;
+    }
+
+
+}
+
+
+@media (max-width: 1199.98px) {
+    .baner_text h2 {
+        font-size: 37px;
+        padding-top: 70px;
+        padding-bottom: 13px;
+    }
+
+    #baner .search input {
+        width: 80%;
+    }
+
+    #baner .search button {
+        right: 149px;
+    }
+
+    #baner .box .item {
+        width: 20%;
+        margin-right: 38px;
+    }
+    #baner .box .item h2 {
+        font-size: 48px;
+    }
+
+    #baner img {
+        width: 105%;
+    }
+
+    #baner .box .item h2 {
+        font-size: 35px;
+    }
+    #baner .box .item p {
+        font-size: 15px;
+    }
+
+    .restanok a {
+        margin-right: 4px;
+    }
+
+    .kota {
+        width: auto;
+    }
+
+    .call a {
+        font-size: 15px;
+    }
+
+    .resent_text h3 {
+        font-size: 24px;
+        width: auto;
+    }
+
+    .resent_text p {
+        width: auto;
+    }
+
+    .navbar .navbar-nav .nav-item{
+        margin-left: 30px;
+    }
+
+    .proparits_text h2 {
+        font-size: 23px;
+        width: auto;
+    }
+
+    .rese_pc img {
+        width: 90%;
+    }
+
+
+}
+
+
